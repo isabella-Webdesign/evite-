@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>party evite</title>
+    <style>
+        h1 {color: rgb(196, 86, 100);}
+        h2 {color: rgb(196, 86, 100);}
+        h3 {color: rgb(196, 86, 100);}
+        p  {color: rgb(196, 86, 100);}
+        body{background-color: rgb(400,200,200);}
+        </style>
+
+   
+
+    <h1> Mia's 17th Birthday!</h1>
+
+     <img src="https://cdn-icons-png.flaticon.com/512/4392/4392520.png" height=350 width=350  </img>
+
+<h2> November 11th, 2023 </h2>
+<h3> 6:00pm - 11:00pm </h3>
+<p> Come join us for a fun party celebrating <strong>Mia!</strong> We will be watching movies, eating snacks, and playing games. Make sure you dress comfy and don't forget to bring a <strong>blanket</strong> & <strong>pillow</strong>!</p>
+<p><strong>RSVP using the link below!</strong></p>
+<p><strong><em><link>https://www.eventbrite.com/l/online-rsvp/</link></strong><em></p>
+
+
+</head>
+<body>
